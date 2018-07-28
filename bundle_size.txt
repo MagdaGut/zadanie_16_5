@@ -1,0 +1,2 @@
+development: 643kB
+production: 108kB
